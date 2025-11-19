@@ -50,4 +50,5 @@ I'm always looking to learn, build, and contribute to meaningful projects.
 ---
 
 ## 📫 Let’s Connect
-**LinkedIn:** https://www.linkedin.com/in/adrian-bagarukayo  
+**LinkedIn:** https://www.linkedin.com/in/adrian-bagarukayo
+**Email:** adriangabe10@gmail.com
